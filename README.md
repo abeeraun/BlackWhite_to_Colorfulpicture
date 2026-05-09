@@ -8,20 +8,41 @@ This project demonstrates an advanced AI pipeline for restoring and enhancing im
 
 Below are the samples showing the transformation process from original grayscale to high-quality colorized results.
 
-### 1. The Lion (Nature & Wildlife)
-| 🌑 Original (B&W) | 🌈 Colorized & Enhanced |
-| :---: | :---: |
-| ![Lion BW](./images (1).jpg) | ![Lion Color](./images (1)_processed.jpg) |
+### 1. The Lion (Wildlife)
+<table>
+  <tr>
+    <td><b>Original (B&W)</b></td>
+    <td><b>Colorized & Enhanced</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images (1).jpg" width="400"></td>
+    <td><img src="./images (1)_processed.jpg" width="400"></td>
+  </tr>
+</table>
 
-### 2. Traditional Play (Human Interaction)
-| 🌑 Original (B&W) | 🌈 Colorized & Enhanced |
-| :---: | :---: |
-| ![People BW](./im.jpg) | ![People Color](./im_processed.jpg) |
+### 2. Traditional Play
+<table>
+  <tr>
+    <td><b>Original (B&W)</b></td>
+    <td><b>Colorized & Enhanced</b></td>
+  </tr>
+  <tr>
+    <td><img src="./im.jpg" width="400"></td>
+    <td><img src="./im_processed.jpg" width="400"></td>
+  </tr>
+</table>
 
-### 3. Sea View (Landscape Restoration)
-| 🌑 Original (B&W) | 🌈 Colorized & Enhanced |
-| :---: | :---: |
-| ![Sea BW](./images.jpg) | ![Sea Color](./images_processed.jpg) |
+### 3. Sea View
+<table>
+  <tr>
+    <td><b>Original (B&W)</b></td>
+    <td><b>Colorized & Enhanced</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images.jpg" width="400"></td>
+    <td><img src="./images_processed.jpg" width="400"></td>
+  </tr>
+</table>
 
 ---
 
